@@ -1,4 +1,4 @@
 # EulerProject_py
-#Just for practice
+#Just for practice and learn
 
 https://projecteuler.net/
