@@ -1,3 +1,5 @@
+# https://projecteuler.net/problem=6
+
 sum1 = 0 #sum of square
 square1 = 0 #square of sum
 
