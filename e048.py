@@ -8,5 +8,5 @@ sum = str(sum)
 sum = sum[::-1]
 sum = sum[0:10]
 
-print(sum[::-1])
+print(sum[::-1]) # 9110846700
 
